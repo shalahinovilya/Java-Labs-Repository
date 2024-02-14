@@ -1,4 +1,4 @@
-package model;
+package LR_5.model;
 
 public class Human {
     private String firstName;

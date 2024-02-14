@@ -1,4 +1,4 @@
-package model;
+package LR_4.model;
 
 public class Student extends Human {
     public Student(String firstName, String lastName, String middleName, Sex sex) {

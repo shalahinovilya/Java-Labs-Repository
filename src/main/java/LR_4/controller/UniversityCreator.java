@@ -1,8 +1,8 @@
-package controller;
-import model.University;
-import model.Human;
-import model.Faculty;
-import model.Sex;
+package LR_4.controller;
+import LR_4.model.University;
+import LR_4.model.Human;
+import LR_4.model.Faculty;
+import LR_4.model.Sex;
 
 public class UniversityCreator implements Creator  {
     private FacultyCreator facultyCreator = new FacultyCreator();

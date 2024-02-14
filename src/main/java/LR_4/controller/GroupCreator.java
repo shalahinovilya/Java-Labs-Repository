@@ -1,8 +1,8 @@
-package controller;
-import model.Group;
-import model.Human;
-import model.Sex;
-import model.Student;
+package LR_4.controller;
+import LR_4.model.Group;
+import LR_4.model.Human;
+import LR_4.model.Sex;
+import LR_4.model.Student;
 
 public class GroupCreator implements Creator  {
     private StudentCreator studentCreator = new StudentCreator();

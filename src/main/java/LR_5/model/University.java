@@ -1,14 +1,14 @@
-package model;
+package LR_5.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Group {
+public class University {
     private String name;
     private Human head;
-    private List<Student> students = new ArrayList<>();
+    private List<Faculty> faculties = new ArrayList<>();
 
-    public Group(String name, Human head) {
+    public University(String name, Human head) {
         this.name = name;
         this.head = head;
     }
@@ -29,11 +29,15 @@ public class Group {
         this.head = head;
     }
 
-    public void addStudent(Student student) {
-        students.add(student);
+    public void addFaculty(Faculty faculty) {
+        faculties.add(faculty);
     }
 
-    public List<Student> getStudents() {
-        return students;
+    public void setFaculties(List<Faculty> facultyList) {
+        faculties = facultyList;
+    }
+
+    public List<Faculty> getFaculties() {
+        return faculties;
     }
 }

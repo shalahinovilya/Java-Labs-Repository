@@ -1,8 +1,8 @@
-package controller;
-import model.Department;
-import model.Group;
-import model.Human;
-import model.Sex;
+package LR_5.controller;
+import LR_5.model.Department;
+import LR_5.model.Group;
+import LR_5.model.Human;
+import LR_5.model.Sex;
 
 public class DepartmentCreator implements Creator {
     private GroupCreator groupCreator = new GroupCreator();

@@ -1,10 +1,10 @@
-package controller;
-import model.Department;
-import model.Faculty;
-import model.Human;
-import model.Sex;
+package LR_5.controller;
+import LR_5.model.Department;
+import LR_5.model.Faculty;
+import LR_5.model.Human;
+import LR_5.model.Sex;
 
-public class FacultyCreator implements Creator  {
+public class FacultyCreator implements Creator {
 
     private DepartmentCreator departmentController = new DepartmentCreator();
 
