@@ -1,0 +1,261 @@
+{
+  "name": "My University",
+  "head": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "middleName": "middleName",
+    "sex": "MALE"
+  },
+  "faculties": [
+    {
+      "name": "Faculty1",
+      "head": {
+        "firstName": "DeanFirstName1",
+        "lastName": "DeanLastName1",
+        "middleName": "DeanMiddleName1",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Department1",
+          "head": {
+            "firstName": "ChairFirstName1",
+            "lastName": "ChairLastName1",
+            "middleName": "ChairMiddleName1",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group1",
+              "head": {
+                "firstName": "HeadFirstName1",
+                "lastName": "HeadLastName1",
+                "middleName": "HeadMiddleName1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "Surname1",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "Surname2",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group2",
+              "head": {
+                "firstName": "HeadFirstName2",
+                "lastName": "HeadLastName2",
+                "middleName": "HeadMiddleName2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student3",
+                  "lastName": "Surname3",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student4",
+                  "lastName": "Surname4",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department2",
+          "head": {
+            "firstName": "ChairFirstName2",
+            "lastName": "ChairLastName2",
+            "middleName": "ChairMiddleName2",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group1",
+              "head": {
+                "firstName": "HeadFirstName1",
+                "lastName": "HeadLastName1",
+                "middleName": "HeadMiddleName1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "Surname1",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "Surname2",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group2",
+              "head": {
+                "firstName": "HeadFirstName2",
+                "lastName": "HeadLastName2",
+                "middleName": "HeadMiddleName2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student3",
+                  "lastName": "Surname3",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student4",
+                  "lastName": "Surname4",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faculty2",
+      "head": {
+        "firstName": "DeanFirstName2",
+        "lastName": "DeanLastName2",
+        "middleName": "DeanMiddleName2",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "Department1",
+          "head": {
+            "firstName": "ChairFirstName1",
+            "lastName": "ChairLastName1",
+            "middleName": "ChairMiddleName1",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group1",
+              "head": {
+                "firstName": "HeadFirstName1",
+                "lastName": "HeadLastName1",
+                "middleName": "HeadMiddleName1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "Surname1",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "Surname2",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group2",
+              "head": {
+                "firstName": "HeadFirstName2",
+                "lastName": "HeadLastName2",
+                "middleName": "HeadMiddleName2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student3",
+                  "lastName": "Surname3",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student4",
+                  "lastName": "Surname4",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Department2",
+          "head": {
+            "firstName": "ChairFirstName2",
+            "lastName": "ChairLastName2",
+            "middleName": "ChairMiddleName2",
+            "sex": "MALE"
+          },
+          "groups": [
+            {
+              "name": "Group1",
+              "head": {
+                "firstName": "HeadFirstName1",
+                "lastName": "HeadLastName1",
+                "middleName": "HeadMiddleName1",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student1",
+                  "lastName": "Surname1",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student2",
+                  "lastName": "Surname2",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Group2",
+              "head": {
+                "firstName": "HeadFirstName2",
+                "lastName": "HeadLastName2",
+                "middleName": "HeadMiddleName2",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "firstName": "Student3",
+                  "lastName": "Surname3",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Student4",
+                  "lastName": "Surname4",
+                  "middleName": "middleName",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

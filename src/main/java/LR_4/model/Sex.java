@@ -1,4 +1,4 @@
-package model;
+package LR_4.model;
 
 public enum Sex {
     MALE,

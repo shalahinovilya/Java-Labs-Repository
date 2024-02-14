@@ -1,4 +1,4 @@
-package model;
+package LR_5.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -31,6 +31,10 @@ public class Department {
 
     public void addGroup(Group group) {
         groups.add(group);
+    }
+
+    public void setGroups(List<Group> groupList) {
+        groups = groupList;
     }
 
     public List<Group> getGroups() {
